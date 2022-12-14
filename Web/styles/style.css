@@ -1,0 +1,22 @@
+p {
+    color:red;
+}
+
+
+#text-2 {
+    color:green;
+ }
+
+
+.text-3 {
+    color:blue;
+}
+body  {
+    background-image: url(" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSWJYnfyctijIPKMurfdy1wDrpHGiY8QhRw&usqp=CAU");
+}
+
+.test-color {
+    color:brown;
+    background-color:blue;
+    border: 2px solid red;
+}
